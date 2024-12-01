@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dz2", "Dz2\Dz2.csproj", "{958C8451-41A5-461A-BB74-A09E7C55986A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{958C8451-41A5-461A-BB74-A09E7C55986A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958C8451-41A5-461A-BB74-A09E7C55986A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958C8451-41A5-461A-BB74-A09E7C55986A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958C8451-41A5-461A-BB74-A09E7C55986A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
